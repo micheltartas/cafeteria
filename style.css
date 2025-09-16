@@ -25,3 +25,13 @@ nav a:hover{
 h1 {
     color: #6b4226;
 }
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #6b4226;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
